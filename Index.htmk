@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Mon cours</title>
+	<meta charset="utf-8">
+</head>
+<body>
+	<center>
+		<h1><b><u>Bienvenu a la FSEG</u></b></h1></center>
+		
+
+	<a href="Mes cours/cours.docx"download="cours"><button>Télécharger le cours</button> SIX<a/> 
+		<br/>
+	<br>
+	<br/>
+<a href="Mes cours/Six destins en étoile.docx"download="Six destins en étoile"><button>Télécharger le cours</button></a> SIX DESTIN 2
+
+
+</br>
+
+</br>
+
+</br>
+
+</br>
+
+</br>
+
+</br>
+
+<center>
+	<img src="img/fseg.jpg" width="950"></center>
+
+<center>
+
+	<h2><b><i><U><P>LA FACULTE DE SCIENCE ECONOMIQUE ET GESTION</P></U></i></b></h2></center>
+
+<center>
+
+	<img src="img/fseg2.jpg" width="950"></center>
+<center>
+
+	<h3><b><p> A la FSEG rien que le travail</p></b></h3></center>
+</b>
+</b>
+<center>
+	<h1><b><i>BONNE CHANCE A TOUS LES ETUDIANT(E)S !!! </i></b></h1></center>
+
+</body>
+</html>
